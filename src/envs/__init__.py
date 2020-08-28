@@ -2,7 +2,7 @@ from functools import partial
 #from smac.env import MultiAgentEnv, StarCraft2Env
 from .multiagentenv import MultiAgentEnv
 from .starcraft2 import StarCraft2Env
-from .gfootball import GoogleFootballEnv
+# from .gfootball import GoogleFootballEnv
 
 import sys
 import os
